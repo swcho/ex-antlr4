@@ -1,0 +1,10 @@
+{
+	// "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+	// "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+	"editor.formatOnSave": true,
+	"prettier.enable": false,
+	"prettier.configPath": ".prettierrc.cjs",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit"
+	},
+}
