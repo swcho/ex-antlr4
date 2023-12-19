@@ -1,0 +1,12 @@
+{
+	"configurations": [
+		{
+			"type": "antlr-debug",
+			"request": "launch",
+			"name": "Debug Current Grammar",
+			"grammar": "${fileDirname}/${fileDirnameBasename}.g4",
+			"input": "${file}",
+			"visualParseTree": true
+		}
+	]
+}

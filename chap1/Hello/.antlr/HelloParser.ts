@@ -1,4 +1,4 @@
-// Generated from /Users/swcho/projects/swcho/ex-antlr4/chap1/Hello.g4 by ANTLR 4.13.1
+// Generated from /Users/swcho/projects/swcho/ex-antlr4/chap1/Hello/Hello.g4 by ANTLR 4.13.1
 
 import * as antlr from "antlr4ng";
 import { Token } from "antlr4ng";
